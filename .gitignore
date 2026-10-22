@@ -1,0 +1,17 @@
+# Power BI temporary files
+*.tmp
+*.pbix.bak
+~*
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MacOS files
+.DS_Store
+
+# IDE / Scratch
+.vscode/
+.idea/
+scratch/
