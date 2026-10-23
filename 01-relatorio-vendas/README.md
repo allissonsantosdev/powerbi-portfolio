@@ -1,10 +1,13 @@
 # 📊 Relatório de Vendas - Power BI
 
+[![Acessar Dashboard Online](https://img.shields.io/badge/Acessar_Dashboard-Online-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDg4NTI0OGQtNmRjMC00NTViLTgxZDUtNDY4Y2YyY2M4MzFjIiwidCI6ImYwYzI2ZDhmLWVlYzctNDkwOC04NDNkLTZkYjg5OTU0NjdiOCJ9)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 Dashboard comercial desenvolvido em **Microsoft Power BI** com foco no acompanhamento de indicadores de desempenho de vendas, faturamento por região, marcas de destaque e evolução temporal.
+
+👉 **[Clique aqui para interagir com o Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiZDg4NTI0OGQtNmRjMC00NTViLTgxZDUtNDY4Y2YyY2M4MzFjIiwidCI6ImYwYzI2ZDhmLWVlYzctNDkwOC04NDNkLTZkYjg5OTU0NjdiOCJ9)**
 
 ---
 
@@ -57,11 +60,11 @@ Abaixo está o layout base e estrutura visual aplicada no relatório:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto Localmente
 
 1. Certifique-se de ter o **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)** instalado na versão mais recente.
 2. Clone o repositório ou faça o download deste diretório.
-3. Abra o arquivo [`Aula 1 - Do Zero.pbix`](Aula%201%20-%20Do%20Zero.pbix).
+3. Abra o arquivo [`Dashboard_vendas.pbix`](Dashboard_vendas.pbix).
 4. Interaja com os gráficos e filtros nativos para explorar os dados.
 
 ---

@@ -1,11 +1,14 @@
 # 👥 Dashboard de Recursos Humanos (People Analytics) - Power BI
 
+[![Acessar Dashboard Online](https://img.shields.io/badge/Acessar_Dashboard-Online-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZjg1NjI5MWUtN2Q3Ni00OGQ0LThjZjAtZTU4ZWQ5ZTllZmRiIiwidCI6ImYwYzI2ZDhmLWVlYzctNDkwOC04NDNkLTZkYjg5OTU0NjdiOCJ9)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![People Analytics](https://img.shields.io/badge/RH-People_Analytics-purple?style=for-the-badge)
 ![Tooltip Customizado](https://img.shields.io/badge/UX-Custom_Tooltip-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 Dashboard estratégico de Recursos Humanos e **People Analytics** desenvolvido em **Microsoft Power BI** com foco em retenção de talentos, controle de turnover, folha de pagamento, horas extras e análise demográfica da equipe. Inclui página dedicada de **Dica de Ferramenta Personalizada (Tooltip)**.
+
+👉 **[Clique aqui para interagir com o Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiZjg1NjI5MWUtN2Q3Ni00OGQ0LThjZjAtZTU4ZWQ5ZTllZmRiIiwidCI6ImYwYzI2ZDhmLWVlYzctNDkwOC04NDNkLTZkYjg5OTU0NjdiOCJ9)**
 
 ---
 
@@ -74,10 +77,10 @@ Abaixo estão os layouts das páginas principal e de detalhamento dinâmico:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto Localmente
 
 1. Abra o **Power BI Desktop**.
-2. Abra o arquivo [`Aula 3 - Do Zero.pbix`](Aula%203%20-%20Do%20Zero.pbix).
+2. Abra o arquivo [`Dashboard_RH.pbix`](Dashboard_RH.pbix).
 3. Passe o mouse sobre os visuais para visualizar a página de **Tooltip RH** funcionando de forma dinâmica e contextual.
 
 ---

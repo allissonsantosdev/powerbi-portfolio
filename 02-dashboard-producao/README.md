@@ -1,11 +1,14 @@
 # ⚙️ Dashboard de Produção & Eficiência Operacional - Power BI
 
+[![Acessar Dashboard Online](https://img.shields.io/badge/Acessar_Dashboard-Online-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNjc0MzRlZGUtZTNkZS00ZmIxLWI5ZjUtY2E4NmY1NmNkMTg3IiwidCI6ImYwYzI2ZDhmLWVlYzctNDkwOC04NDNkLTZkYjg5OTU0NjdiOCJ9)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![OEE & Operações](https://img.shields.io/badge/Operações-Produção_&_Qualidade-orange?style=for-the-badge)
 ![Mobile Ready](https://img.shields.io/badge/Layout-Mobile_Friendly-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 Dashboard industrial e operacional desenvolvido em **Microsoft Power BI** focado no acompanhamento de indicadores de chão de fábrica, qualidade da linha de produção, horas produtivas vs. horas paradas e performance individual de operadores. Conta com **layout responsivo para celular (Mobile Layout)**.
+
+👉 **[Clique aqui para interagir com o Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiNjc0MzRlZGUtZTNkZS00ZmIxLWI5ZjUtY2E4NmY1NmNkMTg3IiwidCI6ImYwYzI2ZDhmLWVlYzctNDkwOC04NDNkLTZkYjg5OTU0NjdiOCJ9)**
 
 ---
 
@@ -77,10 +80,10 @@ Este projeto inclui configuração nativa de **Mobile Layout**, permitindo visua
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto Localmente
 
 1. Abra o **Power BI Desktop**.
-2. Abra o arquivo [`Aula 2 - Do Zero.pbix`](Aula%202%20-%20Do%20Zero.pbix).
+2. Abra o arquivo [`Dashboard_prod.pbix`](Dashboard_prod.pbix).
 3. Para visualizar a versão celular, vá em **Exibição** > **Layout Móvel** no menu superior.
 
 ---
